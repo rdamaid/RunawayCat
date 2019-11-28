@@ -28,7 +28,7 @@ Main Menu: <br />
 **Runaway Cat** adalah sebuah permainan yang menceritakan seekor kucing yang melompat-lompat menyeberangi danau untuk mencari peradaban baru.
 Gunakan bantuan batu sebagai pijakan agar kalian tidak tercebur ke danau.
 
-Hint: gunakan **Left Mouse Button** atau **Space** untuk mengatur jalan jatuhnya kucing
+Hint: gunakan **Left Mouse Button** atau **Space** untuk mengatur kecepatan jatuhnya kucing
 
 ## Teknologi yang digunakan
 * Unity 2019.2
